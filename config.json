@@ -1,0 +1,6 @@
+{
+  "type": "equirectangular",
+  "panorama": "your-pano.jpg",
+  "autoLoad": true,
+  "hfov": 110
+}
